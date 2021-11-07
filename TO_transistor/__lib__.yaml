@@ -1,0 +1,69 @@
+version: 1.0.0
+name: TO_transistor
+author: Krzysztof Wiśniewski
+description: ''
+lib_version: 1.0.0
+model_list:
+- hash: psFAsNhleuzKSn8Ca6FuoYdV1Yo=
+  version: 1.0.0
+  author: Krzysztof Wiśniewski
+  description: ''
+  tags:
+  - TO-126H
+  icon: __default_icon__
+  file: TO-126H.glb
+  scale: 1.0
+- hash: jbdMfgnC3REx7116oAgoCPeX/HA=
+  version: 1.0.0
+  author: Krzysztof Wiśniewski
+  description: ''
+  tags:
+  - TO-126V
+  icon: __default_icon__
+  file: TO-126V.glb
+  scale: 1.0
+- hash: +1WLSQ85V+JXCgVAI5FjFn2szqg=
+  version: 1.0.0
+  author: Krzysztof Wiśniewski
+  description: ''
+  tags:
+  - TO-218H
+  icon: __default_icon__
+  file: TO-218H.glb
+  scale: 1.0
+- hash: s1eIK8KSh+iwHY8hAj3vUpkf2+s=
+  version: 1.0.0
+  author: Krzysztof Wiśniewski
+  description: ''
+  tags:
+  - TO-218V
+  icon: __default_icon__
+  file: TO-218V.glb
+  scale: 1.0
+- hash: 6unyhXz7H2T/0z+Qcr9HMnrWzHY=
+  version: 1.0.0
+  author: Krzysztof Wiśniewski
+  description: ''
+  tags:
+  - TO-252
+  icon: __default_icon__
+  file: TO-252.glb
+  scale: 1.0
+- hash: 3QRvrHzURRAHCORwjH0E6YEWZbs=
+  version: 1.0.0
+  author: Krzysztof Wiśniewski
+  description: ''
+  tags:
+  - TO-92H
+  icon: __default_icon__
+  file: TO-92H.glb
+  scale: 1.0
+- hash: G4NMjhpen3bZsoDBos3KPF0JSGQ=
+  version: 1.0.0
+  author: Krzysztof Wiśniewski
+  description: ''
+  tags:
+  - TO-92V
+  icon: __default_icon__
+  file: TO-92V.glb
+  scale: 1.0

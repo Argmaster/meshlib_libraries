@@ -1,0 +1,24 @@
+version: 1.0.0
+name: Resistors
+author: Krzysztof Wiśniewski
+description: ''
+lib_version: 1.0.0
+model_list:
+- hash: 9oR5UVcoxbWbJNXeUfkZ68+F+FY=
+  version: 1.0.0
+  author: KW
+  description: ''
+  tags:
+  - R0805
+  icon: __default_icon__
+  file: models/R0805.glb
+  scale: 1.0
+- hash: 4s76qIMcliGrS0XHzym0rnGfYa4=
+  version: 1.0.0
+  author: KW
+  description: ''
+  tags:
+  - R1206
+  icon: __default_icon__
+  file: models/R1206.glb
+  scale: 1.0
